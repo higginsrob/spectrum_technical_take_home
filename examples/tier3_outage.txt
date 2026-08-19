@@ -1,0 +1,11 @@
+# Tier 3 — regional outage, collected one field at a time.
+There's no internet for most of downtown.
+Carlos Mendoza
+99887766
+Outage
+We power-cycled the modem, checked the status page, and talked to neighbors who are down too.
+It's the whole region.
+Critical
+The DOCSIS plant and the CMTS
+# Packed fallback if a T3 slot was missed.
+Carlos Mendoza, account 99887766, regional downtown outage, category outage, steps tried: reboot and status page, impact region, urgency critical, systems: DOCSIS plant and CMTS.

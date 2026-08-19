@@ -1,0 +1,7 @@
+# Name correction mid-flow. Correct before the last required field so the ticket cannot emit yet.
+I forgot my password and can't log in.
+Jane Smith
+Actually, my name is Jane Doe-Chen.
+44556677
+# Packed fallback restates the corrected name.
+Jane Doe-Chen, account 44556677, password reset for my Spectrum login.

@@ -1,0 +1,8 @@
+# Tier 2 — speed upgrade, one answer per turn.
+I'd like to upgrade my internet to Gig.
+Jane Doe
+44556677
+It's a service modification — a speed upgrade.
+I checked the My Spectrum app and confirmed Gig is available at my address.
+# Packed fallback if a slot was missed.
+Jane Doe, account 44556677, upgrade internet to Gig, category service_modification, steps tried: checked the My Spectrum app.

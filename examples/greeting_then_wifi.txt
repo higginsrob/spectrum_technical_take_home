@@ -1,0 +1,9 @@
+# Greeting, then Tier 2 wifi — one answer per turn (issue, name, account, category, steps).
+Hi
+My wifi keeps dropping every few minutes.
+Alex Kim
+44556677
+I'd call it troubleshooting.
+I already rebooted the modem and moved closer to the router.
+# Packed fallback if a slot was missed.
+Alex Kim, account 44556677, wifi dropping, category troubleshooting, steps tried: rebooted modem and moved closer to the router.

@@ -1,0 +1,8 @@
+# Tier 2 — billing dispute, one answer per turn.
+I was charged twice on last month's bill.
+Priya Shah
+44556677
+Billing
+I compared the PDF bill to my plan and called the automated line.
+# Packed fallback if a slot was missed.
+Priya Shah, account 44556677, double charge on last bill, category billing, steps tried: compared the PDF bill to my plan.

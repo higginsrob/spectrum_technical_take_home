@@ -1,0 +1,11 @@
+# Starts as billing (T2). While answering steps tried, new facts raise it to a regional outage (T3).
+I think I was billed wrong because my internet keeps dropping.
+Priya Shah
+44556677
+Billing
+I compared the PDF bill to my plan and rebooted the modem twice. Wait — it's not just me. The whole neighborhood is offline now.
+Region-wide
+Critical
+The CMTS and the access network
+# Packed fallback if a T3 slot was missed after the reclassify.
+Priya Shah, account 44556677, neighborhood outage, category outage, steps tried: compared the PDF bill and rebooted, impact region, urgency critical, systems: CMTS and access network.

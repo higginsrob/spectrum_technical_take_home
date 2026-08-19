@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "intake-agent"
+version = "0.1.0"
+description = "Conversational support intake agent that classifies, collects, and emits a qualified ticket"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph>=0.2.0",
+    "langchain-core>=0.3.0",
+    "langchain-ollama>=0.2.0",
+    "langchain-openai>=0.2.0",
+    "pydantic>=2.0",
+    "python-dotenv>=1.0",
+    "tiktoken>=0.7.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+intake-agent = "intake_agent.cli:main"
+intake-agent-eval = "intake_agent.eval:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = [
+    "eval: live LLM replay of example scripts (enable with --eval)",
+]
